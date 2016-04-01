@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<script>
+
+			nw.Window.get().on('new-win-policy', function(frame, url, policy) {
+				policy.ignore();
+				nw.Shell.openExternal(url);
+				nw.process.mainModule.exports.log_click();
+			});		
+			
+			chrome.notifications.onClicked.addListener(function(){
+				console.log("NOTIF CLICKED")
+			})
+			
+			
+		</script>
+
+	</head>
+
+	<body>
+
+		<iframe id="tweetdeck_frame" frameborder="0" src="http://tweetdeck.twitter.com"></iframe>
+
+	</body>
+
+</html>

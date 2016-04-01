@@ -1,0 +1,17 @@
+{
+  "name": "tweetdeckr",
+  "version": "0.0.1",
+  "main": "index.html",
+  "node-main": "index.js",
+  "window": {
+    "title": "Tweetdeckr",
+    "icon": "tweetdkr.ico",
+    "toolbar": true,
+    "frame": true,
+    "width": 1280,
+    "height": 720,
+    "position": "center",
+    "min_width": 800,
+    "min_height": 600
+  }
+}

@@ -1,0 +1,81 @@
+[0324/233033:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233135:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233239:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233439:ERROR:process_info.cc(608)] range at 0x5ba6358800000000, size 0xf4 fully unreadable
+[0324/233439:ERROR:process_info.cc(608)] range at 0x5ba635a800000000, size 0xf4 fully unreadable
+[0324/233439:ERROR:process_info.cc(608)] range at 0x0, size 0xf4 fully unreadable
+[0324/233441:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233441:ERROR:process_info.cc(608)] range at 0xea7223f000000000, size 0x6a fully unreadable
+[0324/233441:ERROR:process_info.cc(608)] range at 0xea72241000000000, size 0x6a fully unreadable
+[0324/233441:ERROR:process_info.cc(608)] range at 0x0, size 0x6a fully unreadable
+[0324/233450:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233451:ERROR:process_info.cc(608)] range at 0x64a723f000000000, size 0x75 fully unreadable
+[0324/233451:ERROR:process_info.cc(608)] range at 0x64a7241000000000, size 0x75 fully unreadable
+[0324/233451:ERROR:process_info.cc(608)] range at 0x0, size 0x75 fully unreadable
+[0324/233458:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233509:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233511:ERROR:process_info.cc(608)] range at 0x996f23f000000000, size 0x2e fully unreadable
+[0324/233511:ERROR:process_info.cc(608)] range at 0x996f241000000000, size 0x2e fully unreadable
+[0324/233511:ERROR:process_info.cc(608)] range at 0x0, size 0x2e fully unreadable
+[0324/233525:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233527:ERROR:process_info.cc(608)] range at 0x797523f000000000, size 0xeb fully unreadable
+[0324/233527:ERROR:process_info.cc(608)] range at 0x7975241000000000, size 0xeb fully unreadable
+[0324/233527:ERROR:process_info.cc(608)] range at 0x0, size 0xeb fully unreadable
+[0324/233535:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe"
+[0324/233539:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233545:ERROR:process_info.cc(608)] range at 0x43b23f000000000, size 0x7f fully unreadable
+[0324/233545:ERROR:process_info.cc(608)] range at 0x43b241000000000, size 0x7f fully unreadable
+[0324/233545:ERROR:process_info.cc(608)] range at 0x0, size 0x7f fully unreadable
+[0324/233711:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233712:ERROR:process_info.cc(608)] range at 0xd6da23f000000000, size 0x25 fully unreadable
+[0324/233712:ERROR:process_info.cc(608)] range at 0xd6da241000000000, size 0x25 fully unreadable
+[0324/233712:ERROR:process_info.cc(608)] range at 0x0, size 0x25 fully unreadable
+[0324/233718:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233719:ERROR:process_info.cc(608)] range at 0xcb9023f000000000, size 0x3a fully unreadable
+[0324/233719:ERROR:process_info.cc(608)] range at 0xcb90241000000000, size 0x3a fully unreadable
+[0324/233719:ERROR:process_info.cc(608)] range at 0x0, size 0x3a fully unreadable
+[0324/233748:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233822:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233955:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/233957:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234001:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234003:ERROR:process_info.cc(608)] range at 0xdfb0358a00000000, size 0xe2 fully unreadable
+[0324/234003:ERROR:process_info.cc(608)] range at 0xdfb035aa00000000, size 0xe2 fully unreadable
+[0324/234003:ERROR:process_info.cc(608)] range at 0x0, size 0xe2 fully unreadable
+[0324/234005:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234151:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234210:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234310:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234605:ERROR:process_info.cc(608)] range at 0x7c3358c00000000, size 0x63 fully unreadable
+[0324/234605:ERROR:process_info.cc(608)] range at 0x7c335ac00000000, size 0x63 fully unreadable
+[0324/234605:ERROR:process_info.cc(608)] range at 0x0, size 0x63 fully unreadable
+[0324/234607:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234626:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234701:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234702:ERROR:process_info.cc(608)] range at 0xf79223f000000000, size 0xda fully unreadable
+[0324/234702:ERROR:process_info.cc(608)] range at 0xf792241000000000, size 0xda fully unreadable
+[0324/234702:ERROR:process_info.cc(608)] range at 0x0, size 0xda fully unreadable
+[0324/234800:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/234957:ERROR:process_info.cc(608)] range at 0xdeae358600000000, size 0x5b fully unreadable
+[0324/234957:ERROR:process_info.cc(608)] range at 0xdeae35a600000000, size 0x5b fully unreadable
+[0324/234957:ERROR:process_info.cc(608)] range at 0x0, size 0x5b fully unreadable
+[0324/234959:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/235202:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0324/235947:ERROR:process_info.cc(608)] range at 0xe28b358800000000, size 0x4c fully unreadable
+[0324/235947:ERROR:process_info.cc(608)] range at 0xe28b35a800000000, size 0x4c fully unreadable
+[0324/235947:ERROR:process_info.cc(608)] range at 0x0, size 0x4c fully unreadable
+[0324/235950:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0325/000231:ERROR:process_info.cc(608)] range at 0x8cc6358800000000, size 0x30 fully unreadable
+[0325/000231:ERROR:process_info.cc(608)] range at 0x8cc635a800000000, size 0x30 fully unreadable
+[0325/000231:ERROR:process_info.cc(608)] range at 0x0, size 0x30 fully unreadable
+[0325/000232:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0325/001515:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0325/001835:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0325/002216:ERROR:process_info.cc(608)] range at 0x4e0d358a00000000, size 0xc4 fully unreadable
+[0325/002216:ERROR:process_info.cc(608)] range at 0x4e0d35aa00000000, size 0xc4 fully unreadable
+[0325/002216:ERROR:process_info.cc(608)] range at 0x0, size 0xc4 fully unreadable
+[0325/002823:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0401/211017:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Tweetdeckr.exe"
+[0401/211045:ERROR:process_info.cc(608)] range at 0x6f8735b800000000, size 0xe8 fully unreadable
+[0401/211045:ERROR:process_info.cc(608)] range at 0x6f8735d800000000, size 0xe8 fully unreadable
+[0401/211045:ERROR:process_info.cc(608)] range at 0x0, size 0xe8 fully unreadable
