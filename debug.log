@@ -79,3 +79,4 @@
 [0401/211045:ERROR:process_info.cc(608)] range at 0x6f8735b800000000, size 0xe8 fully unreadable
 [0401/211045:ERROR:process_info.cc(608)] range at 0x6f8735d800000000, size 0xe8 fully unreadable
 [0401/211045:ERROR:process_info.cc(608)] range at 0x0, size 0xe8 fully unreadable
+[0401/213409:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Tweetdeckr.exe"
