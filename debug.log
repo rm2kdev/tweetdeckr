@@ -80,3 +80,18 @@
 [0401/211045:ERROR:process_info.cc(608)] range at 0x6f8735d800000000, size 0xe8 fully unreadable
 [0401/211045:ERROR:process_info.cc(608)] range at 0x0, size 0xe8 fully unreadable
 [0401/213409:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Tweetdeckr.exe"
+[0705/184858:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0705/184912:ERROR:process_info.cc(608)] range at 0x7fd6360c00000000, size 0x71 fully unreadable
+[0705/184912:ERROR:process_info.cc(608)] range at 0x7fd6362c00000000, size 0x71 fully unreadable
+[0705/184912:ERROR:process_info.cc(608)] range at 0x0, size 0x71 fully unreadable
+[0705/185133:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\asdf.exe"
+[0705/185234:ERROR:image_metadata_extractor.cc(114)] Couldn't load libexif. 126
+[0705/185556:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0705/185557:ERROR:process_info.cc(608)] range at 0xf1cf361400000000, size 0xc5 fully unreadable
+[0705/185557:ERROR:process_info.cc(608)] range at 0xf1cf363400000000, size 0xc5 fully unreadable
+[0705/185557:ERROR:process_info.cc(608)] range at 0x0, size 0xc5 fully unreadable
+[0705/185559:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\nw.exe" "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Source"
+[0705/185619:ERROR:process_info.cc(608)] range at 0x507535fc00000000, size 0x83 fully unreadable
+[0705/185619:ERROR:process_info.cc(608)] range at 0x5075361c00000000, size 0x83 fully unreadable
+[0705/185619:ERROR:process_info.cc(608)] range at 0x0, size 0x83 fully unreadable
+[0705/185710:INFO:nw_package.cc(175)] "C:\Users\rm2kdev\Documents\Work\TweetDeckr - v13\Tweetdeckr.exe"
